@@ -1,3 +1,5 @@
+// Adafruit_GFX and Adafruit_SSD1306 library must be preinstall for the code to work.
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
